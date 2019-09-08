@@ -19,7 +19,7 @@ function busca_cep($cep){
  */  
   
 //Vamos buscar o CEP 90020022  
-$resultado_busca = busca_cep('90020022');  
+$resultado_busca = busca_cep('05686050');  
   
 echo "<pre> Array Retornada: 
  ".print_r($resultado_busca, true)."</pre>";  
