@@ -1,0 +1,14 @@
+.text-p{
+	text-align: justify;
+}
+p{
+	text-align: justify;
+}
+.h3-pct{
+	font-size: 27px;
+	}
+
+ul.pacote-list{
+	list-style-type: square !important;
+	text-align: justify !important;
+}
